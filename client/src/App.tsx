@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import Form from './components/Form';
-import { Busqueda, Letra, ArtistaInfo } from './interface/interfaces'
+import { Busqueda, Letra, ArtistaInfo } from '../interface/interfaces'
 import axios, { AxiosResponse } from 'axios';
 import Cancion from './components/Cancion';
 import Artista from './components/Artista';

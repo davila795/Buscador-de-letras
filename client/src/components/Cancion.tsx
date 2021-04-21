@@ -1,5 +1,5 @@
 import React from 'react'
-import { CancionProps } from '../interface/interfaces';
+import { CancionProps } from '../../interface/interfaces';
 
 function Cancion({ letra }: CancionProps) {
   return (

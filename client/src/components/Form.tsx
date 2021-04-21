@@ -1,5 +1,5 @@
 import React from 'react';
-import { Busqueda, FormProps } from '../interface/interfaces';
+import { Busqueda, FormProps } from '../../interface/interfaces';
 
 function Form({ busquedaletraSet }: FormProps) {
 

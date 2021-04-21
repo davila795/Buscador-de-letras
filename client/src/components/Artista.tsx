@@ -1,5 +1,5 @@
 import React from 'react'
-import { ArtistaProps } from '../interface/interfaces'
+import { ArtistaProps } from '../../interface/interfaces'
 
 function Artista({ info }: ArtistaProps) {
   return (
